@@ -98,7 +98,14 @@
       <workItem from="1569926625804" duration="415000" />
       <workItem from="1569965506171" duration="3000" />
       <workItem from="1569968562536" duration="3566000" />
-      <workItem from="1570696407985" duration="4681000" />
+      <workItem from="1570696407985" duration="4856000" />
+      <workItem from="1570771157691" duration="14000" />
+      <workItem from="1570771838609" duration="225000" />
+      <workItem from="1570772157095" duration="53000" />
+      <workItem from="1570776962465" duration="17000" />
+      <workItem from="1570776997732" duration="6000" />
+      <workItem from="1570777349713" duration="8164000" />
+      <workItem from="1570830589015" duration="232000" />
     </task>
     <servers />
   </component>
@@ -120,6 +127,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sudoku$utils.coverage" NAME="utils Coverage Results" MODIFIED="1569898299749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/sudoku$function.coverage" NAME="function Coverage Results" MODIFIED="1570706200451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sudoku$function.coverage" NAME="function Coverage Results" MODIFIED="1570830620331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
